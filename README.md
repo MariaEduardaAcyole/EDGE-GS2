@@ -30,7 +30,6 @@ A solução combina:
 
 A plantinha reage às condições com animações (feliz, neutra, triste), e os dados são enviados para um broker MQTT, permitindo monitoramento remoto.
 
-
 ## 3. ☁️ Comunicação MQTT — Explicação Técnica
 
 Usamos o broker público:
@@ -44,6 +43,8 @@ Usamos o broker público:
 | `plantinha/umidade` | Envia a umidade do solo | int |
 | `plantinha/luz` | Envia a luminosidade | int |
 | `plantinha/status` | Estado emocional (Feliz / Atenção / Triste) | string |
+| `plantinha/pontos` | Soma pontos|
+
 
 ## 🔌 5. Componentes
 
@@ -60,14 +61,14 @@ Usamos o broker público:
 ## 🛠️ 6. Link da Simulação no Wokwi
 
 👉 **Simulação Pública:**  
-https://wokwi.com/projects/SEU-LINK-AQUI
+https://wokwi.com/projects/447467530045283329
 
 ---
 
 ## 🎥 7. Vídeo Explicativo
 
 👉 **Vídeo completo:**  
-https://youtube.com/SEU-LINK-AQUI
+https://youtube.com/meu link
 
 ---
 
@@ -88,7 +89,7 @@ Além disso, a plantinha **pisca os olhos ocasionalmente**, criando um comportam
 ## 💻 9. Código-Fonte 
 
 O código completo está disponível em:  
-`/src/plantinha.ino`
+`/plantinha.ino`
 
 ## 🧩 11. Como Reproduzir
 - ✔ 1. No Wokwi
@@ -107,6 +108,7 @@ Assine os tópicos:
 - plantinha/umidade
 - plantinha/luz
 - plantinha/status
+- plantinha/pontos
 
 ## 🌍 12. Impacto no Futuro do Trabalho
 A solução contribui para:
