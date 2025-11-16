@@ -70,6 +70,7 @@ https://wokwi.com/projects/447467530045283329
 👉 **Vídeo completo:**  
 https://youtube.com/meu link
 
+<img src="./girassol-prototipo.jpg" alt="img da simulação" width="150">
 ---
 
 ## 🧪 8. Demonstração e Funcionamento
