@@ -62,13 +62,13 @@ Usamos o broker público:
 
 👉 **Simulação Pública:**  
 https://wokwi.com/projects/447467530045283329
-
 ---
 
 ## 🎥 7. Vídeo Explicativo
 
 👉 **Vídeo completo:**  
-https://youtube.com/meu link
+[Link do Video
+](https://www.youtube.com/watch?v=hqo3yf12KQA)
 
 <img src="./girassol-prototipo.jpg" alt="img da simulação" width="150">
 ---
